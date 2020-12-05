@@ -9,6 +9,8 @@ if a ==1:
 else:
     print('none')
 
+
+print("merged on branch")
 print("send help")
 
 
