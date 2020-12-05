@@ -1,3 +1,4 @@
+#1
 print("hello")
 
 print("send help")
@@ -12,3 +13,6 @@ print("send help")
 
 
 #changes
+
+
+#changes made after merged
